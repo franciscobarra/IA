@@ -59,7 +59,8 @@ public class Estado {
         return movimiento;
     }
     
-    
+    /*public String pene(){
+    }*/
     
     
     
